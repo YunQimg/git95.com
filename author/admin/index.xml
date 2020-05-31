@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIT95.COM</title>
+    <link>/author/admin/</link>
+    <description>Recent content on GIT95.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>git95.com &amp;copy; 2020</copyright>
+    
+	<atom:link href="/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
