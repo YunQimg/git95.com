@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://git95.com/sitemap.xml

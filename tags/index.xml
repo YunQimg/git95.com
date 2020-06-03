@@ -2,40 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GIT95.COM</title>
-    <link>/tags/</link>
+    <link>https://git95.com/tags/</link>
     <description>Recent content in Tags on GIT95.COM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>en</language>
     <copyright>git95.com &amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://git95.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <title>preview</title>
+      <link>https://git95.com/tags/preview/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://git95.com/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <title>tag-3</title>
+      <link>https://git95.com/tags/tag-3/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>https://git95.com/tags/tag-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <title>Theme preview</title>
+      <link>https://git95.com/tags/theme-preview/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://git95.com/tags/theme-preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://git95.com/tags/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-2</title>
+      <link>https://git95.com/tags/tag-2/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/tag-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-4</title>
+      <link>https://git95.com/tags/tag-4/</link>
+      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/tag-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日本語</title>
+      <link>https://git95.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-1</title>
+      <link>https://git95.com/tags/tag-1/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/tag-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中文</title>
+      <link>https://git95.com/tags/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://git95.com/tags/shortcodes/</link>
+      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://git95.com/tags/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-5</title>
+      <link>https://git95.com/tags/tag-5/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>https://git95.com/tags/tag-5/</guid>
       <description></description>
     </item>
     
