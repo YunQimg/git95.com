@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on GIT95.COM</title>
+    <link>https://git95.com/categories/git/</link>
+    <description>Recent content in git on GIT95.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>git95.com &amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 04 Jun 2020 23:15:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://git95.com/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Several-git-commands</title>
+      <link>https://git95.com/post/several-git-commands/</link>
+      <pubDate>Thu, 04 Jun 2020 23:15:58 +0800</pubDate>
+      
+      <guid>https://git95.com/post/several-git-commands/</guid>
+      <description>Everyday Git in twenty commands or so 1  git help everyday   Show helpful guides that come with Git 1  git help -g   Search change by content 1  git log -S &amp;#39;&amp;lt;a term in the source&amp;gt;&amp;#39;   Show changes over time for specific file 1  git log -p &amp;lt;file_name&amp;gt;   Remove sensitive data from history, after a push 1  git filter-branch --force --index-filter &amp;#39;git rm --cached --ignore-unmatch &amp;lt;path-to-your-file&amp;gt;&amp;#39; --prune-empty --tag-name-filter cat -- --all &amp;amp;&amp;amp; git push origin --force --all   Sync with remote, overwrite local changes 1  git fetch origin &amp;amp;&amp;amp; git reset --hard origin/master &amp;amp;&amp;amp; git clean -f -d   </description>
+    </item>
+    
+  </channel>
+</rss>
